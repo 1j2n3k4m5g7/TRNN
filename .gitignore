@@ -1,0 +1,10 @@
+py_3.11.9.x64/
+.vscode/
+__pycache__/
+*.keras
+venv/
+env/
+conda/
+Thumbs.db
+Desktop.ini
+.DS_Store
